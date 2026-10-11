@@ -4,7 +4,7 @@ Unreal-style camera bookmarks for Godot's 3D editor viewport. Save up to 10 came
 
 ## Why
 
-Godot's built-in bookmarks work on script lines, not the 3D viewport. If you're doing level design and constantly jumping between regions, you know the pain. This plugin fills that gap.
+When working on 3D scenes, I always missed being able to save camera positions. It's especially useful for level design — jumping between saved viewpoints, examining an object from different angles, or reviewing the whole level from a few key spots. This plugin makes working with 3D scenes in Godot more convenient.
 
 ## Features
 
