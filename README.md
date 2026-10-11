@@ -1,6 +1,6 @@
 # Godot 3D Viewport Bookmarks
 
-Unreal-style camera bookmarks for Godot's 3D editor viewport. Save up to 10 camera positions and jump between them with one click — no more re-navigating from scratch every time you switch areas of your level.
+3D editor camera bookmarks for Godot's 3D editor viewport. Save up to 10 camera positions and jump between them with one click — no more re-navigating from scratch every time you switch areas of your level.
 
 ## Why
 
